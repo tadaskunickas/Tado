@@ -1,9 +1,7 @@
 
 ##TADAS KUNICKAS
 
-
-
-
+<img src="TadasProfile.jpg" alt="Tadas Profile" style="width:396px;height:500px;">
 
 ##Hello
 ```markdown
